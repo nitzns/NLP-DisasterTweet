@@ -49,4 +49,4 @@ Additionally, we explore model ensembling/stacking to combine the predictions of
 
 ## 🔎 Conclusion
 
-Our experiments demonstrate the effectiveness of various deep learning architectures for text classification tasks. By comparing the performance of different models, we provide insights into selecting suitable approaches for similar tasks in natural language processing (NLP).
+Our experiments highlight the effectiveness of multiple deep learning architectures in text classification tasks. By evaluating the performance of various models, we offer valuable insights into choosing the most suitable approaches for similar tasks in natural language processing (NLP).
