@@ -1,8 +1,8 @@
-# Text Classification Models Comparison for disaster or not dataset
+# Comparative Analysis of Text Classification Models for Disaster Tweets
 
 ## 👋 Introduction
 
-The goal of this project is to develop effective models for classifying tweets as either related to disasters or not. To achieve this, we experiment with different deep learning architectures and techniques, analyzing their accuracy, precision, recall, and F1-score.
+The aim of this project is to build and compare models that classify tweets as either disaster-related or not. Various deep learning architectures and techniques are explored, and their performance is evaluated using metrics such as accuracy, precision, recall, and F1-score.
 
 ## 🥷 Models
 
